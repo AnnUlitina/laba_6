@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-
+    name: "Ubuntu/18.04/Static/X64/Release"
     runs-on: ubuntu-latest
 
     steps:
